@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.back__title {
+  background-color: #00cba9;
+  opacity: 90%;
+}
